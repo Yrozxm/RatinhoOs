@@ -108,5 +108,6 @@ draw_taskbar:
 
 section .data
     current_state db 0
-    lince_title   db 'LINCE OS ', 0
+    ratinho_title   db 'RatinhoOs ', 0
+
     msg_power     db 'MODO ECONOMIA: OFF', 0 
